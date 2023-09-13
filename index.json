@@ -133,32 +133,21 @@
   },
   "uniqueValues": {
     "firmware_version": [
-      "4.4",
-      "4.5"
+      "4.4"
     ],
     "category": [
       "OSD",
-      "OTHER",
-      "RC_LINK",
-      "TUNE"
+      "RC_LINK"
     ],
     "author": [
-      "Betaflight",
-      "KMfpv"
+      "Betaflight"
     ],
     "keywords": [
-      "basic",
-      "custom commands",
-      "default",
       "defaults",
-      "gps",
-      "nmea",
       "OSD",
-      "pid",
       "rc link",
       "rc_link",
-      "reset",
-      "tune"
+      "reset"
     ]
   },
   "presets": [
@@ -193,60 +182,6 @@
         "reset",
         "rc link",
         "rc_link"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/custom_nmea.txt",
-      "hash": "10931aba011ca232171d37cdacdc287d5f261a8de12bb2f75bb9eef3f9c7b3bc",
-      "title": "Custom NMEA commands",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "COMMUNITY",
-      "keywords": [
-        "gps",
-        "custom commands",
-        "nmea"
-      ],
-      "author": "KMfpv",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/reset_gps.txt",
-      "hash": "48ed02ca3989ba69a4d5924ae5e41519364286923203d792c7c7359d91964049",
-      "title": "Reset GPS settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "GPS"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/tune/defaults.txt",
-      "hash": "ecc8a3fc34041fe76c3f552181c84595905902fe07bd1418e4f8b221724182da",
-      "title": "Betaflight 4.5 TUNE defaults",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "tune",
-        "pid",
-        "basic",
-        "default"
       ],
       "author": "Betaflight",
       "priority": 0
