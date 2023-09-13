@@ -137,12 +137,15 @@
     ],
     "category": [
       "OSD",
+      "OTHER",
       "RC_LINK"
     ],
     "author": [
-      "Betaflight"
+      "Betaflight",
+      "MATTEO"
     ],
     "keywords": [
+      "Battery",
       "defaults",
       "OSD",
       "rc link",
@@ -166,6 +169,68 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/My OSD.txt",
+      "hash": "b389fbb00a4ccb18e8f3f2c0dfc026a439cbb4850c406e40af9e618dc8a8c537",
+      "title": "TEO OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "MATTEO",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/powerBatt/1500 LiPo 6S.txt",
+      "hash": "8f02bcdb18b52ac491581806c244e2bd84958c7cde03612e76d88328be92053f",
+      "title": "1500 LiPo 6S",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Battery"
+      ],
+      "author": "MATTEO",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/powerBatt/2200 LiPo 6S.txt",
+      "hash": "2adcb7dc5e26b0d6781223cba667163039e888122398e904bab104ba5cc0ef3b",
+      "title": "2200 LiPo 6S",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Battery"
+      ],
+      "author": "MATTEO",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/powerBatt/4000 LiIon 6S.txt",
+      "hash": "4ce869e1c2a2333aa46f4fcf2679812a652f581ebace03d2dd191c79d00ec806",
+      "title": "4000 LiION 6S",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Battery"
+      ],
+      "author": "MATTEO",
       "priority": 0
     },
     {

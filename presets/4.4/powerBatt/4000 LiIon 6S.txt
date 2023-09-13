@@ -1,0 +1,16 @@
+#$ TITLE: 4000 LiION 6S
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: other
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Battery
+#$ AUTHOR: MATTEO
+#$ DESCRIPTION: 4000 LIION correct MAH
+
+
+set bat_capacity = 3200
+
+set vbat_max_cell_voltage = 425
+set vbat_min_cell_voltage = 300
+set vbat_warning_cell_voltage = 310
+
+set osd_cap_alarm = 3200

@@ -1,0 +1,16 @@
+#$ TITLE: 2200 LiPo 6S
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: other
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Battery
+#$ AUTHOR: MATTEO
+#$ DESCRIPTION: 2200 LIPO correct MAH
+
+
+set bat_capacity = 1650
+
+set vbat_max_cell_voltage = 425
+set vbat_min_cell_voltage = 330
+set vbat_warning_cell_voltage = 350
+
+set osd_cap_alarm = 1650
