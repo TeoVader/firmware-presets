@@ -138,7 +138,9 @@
     "category": [
       "OSD",
       "OTHER",
-      "RC_LINK"
+      "RATES",
+      "RC_LINK",
+      "TUNE"
     ],
     "author": [
       "Betaflight",
@@ -234,6 +236,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/rates/My RATES.txt",
+      "hash": "72805a5fb0ad86e2e7b8677f9c9f0a382a5a7241fe9b4bf5587bbc45a8cc4809",
+      "title": "TEO Rates",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "MATTEO",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
       "hash": "fe6be880bb051e1294253d2f583def5c9ad8c540d3463540ec9b80fa2a5d775a",
       "title": "Reset ALL RC link related settings",
@@ -250,6 +269,23 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/tune/Nazgul F6 V1 tune.txt",
+      "hash": "4e5f1903c022c59e92a3c89960382453465a8c74b17141c320477f0a76eab436",
+      "title": "Nazgul F6 V1 tune",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "MATTEO",
+      "priority": 1000000000000
     }
   ]
 }
